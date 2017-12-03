@@ -2,6 +2,6 @@ package main
 
 func main() {
 	dayOne()
-	//dayTwo()
+	dayTwo()
 	//dayThree()
 }
